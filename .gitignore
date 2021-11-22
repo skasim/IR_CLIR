@@ -1,0 +1,16 @@
+paper/
+data/cord19.txt
+data/cord19.zip
+corpus_and_indices/
+4gram/
+5gram/
+term/
+dictionary/
+trec_eval/trec_eval-9.0.7/
+trec_eval_latest.tar.gz
+vecmap/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+embeddings/*
+

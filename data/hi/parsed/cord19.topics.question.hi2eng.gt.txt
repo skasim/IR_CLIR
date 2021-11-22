@@ -1,0 +1,200 @@
+<Q ID=1>
+What is the origin of CWID19
+</Q>
+
+<Q ID=2>
+How to answer changes in coronavirus weather
+</Q>
+
+<Q ID=3>
+Will SARS-Cove 2 infected people develop immunity? Is it possible to cross protection?
+</Q>
+
+<Q ID=4>
+Does Kovid-19 causes death?
+</Q>
+
+<Q ID=5>
+Which medicines are active against SARS-COV or SARS-COV-2 in animal study?
+</Q>
+
+<Q ID=6>
+What kind of fast tests have been developed for Kovid-19?
+</Q>
+
+<Q ID=7>
+Are there a syrupical test which detects coronavirus antibody?
+</Q>
+
+<Q ID=8>
+How is the lack of testing availability to reduce real events of COVID19?
+</Q>
+
+<Q ID=9>
+How did Kovid-19 have influenced Canada
+</Q>
+
+<Q ID=10>
+Is the social distance impacting to slow down the spread of Kovid-19?
+</Q>
+
+<Q ID=11>
+What is the guidelines for infected patients from Coronair?
+</Q>
+
+<Q ID=12>
+What are the best practice at hospitals and home in maintaining quarantine?
+</Q>
+
+<Q ID=13>
+What is the transmission route of Coronaires?
+</Q>
+
+<Q ID=14>
+What are the evidence related to CWID-19 Super Spreaders
+</Q>
+
+<Q ID=15>
+How long coronavirus stays outside the body
+</Q>
+
+<Q ID=16>
+How long does the corners remain stable on the surfaces?
+</Q>
+
+<Q ID=17>
+Is there any clinical trials available for coronavirus
+</Q>
+
+<Q ID=18>
+What are the best masks to prevent infection by Kovid-19?
+</Q>
+
+<Q ID=19>
+Which type of hand sanitizer is required to destroy Kovid-19?
+</Q>
+
+<Q ID=20>
+Are the patients taking angiotensin-converting enzyme inhibitors (ACE) at the growing risk for COVID19?
+</Q>
+
+<Q ID=21>
+What are the mortality in the overall and specific population
+</Q>
+
+<Q ID=22>
+Cardiac complexities are likely to have cardiac complications in Kovid-19?
+</Q>
+
+<Q ID=23>
+What kind of complications related to Kovid-19 have been linked to hypertension?
+</Q>
+
+<Q ID=24>
+What kinds of complications related to Kovid-19 are connected to diabetes
+</Q>
+
+<Q ID=25>
+Which Biamakers predict serious clinical course of 2019-NCOV infection?
+</Q>
+
+<Q ID=26>
+What are the early symptoms of Kovid-19?
+</Q>
+
+<Q ID=27>
+What do you know about the infected people from Kovid-19 but are unlimited?
+</Q>
+
+<Q ID=28>
+What are the evidence for the value of hydroxyclocon in the treatment of Kovid-19?
+</Q>
+
+<Q ID=29>
+Which SARS-Cove-2 protein-human protein interactions give potential signals for medication goals. Are there approved medicines that can be recovered based on this information?
+</Q>
+
+<Q ID=30>
+There is an effective treatment for Remedesivir Kavv-19
+</Q>
+
+<Q ID=31>
+How is the corners different from seasonal flu?
+</Q>
+
+<Q ID=32>
+What is a subtype in SARS-COV-2, and if so, what are they?
+</Q>
+
+<Q ID=33>
+Which vaccine candidates are being tested for Kovid-19?
+</Q>
+
+<Q ID=34>
+What are the long-term complications of those who are recovering from Coved-19?
+</Q>
+
+<Q ID=35>
+New public datasets are available from Kovid-19?
+</Q>
+
+<Q ID=36>
+What is the protein structure of SARS-COV-2 spike?
+</Q>
+
+<Q ID=37>
+What is the result of the genealogy analysis of SARS-COV-2 genome sequence?
+</Q>
+
+<Q ID=38>
+What is the mechanism of swelling reaction and pathogy of COWD-19 cases?
+</Q>
+
+<Q ID=39>
+What is the mechanism of cytokine storm syndrome at Kovid-19?
+</Q>
+
+<Q ID=40>
+What are the mutations celebrated in SARS-COO2 genome and how often do the mutations?
+</Q>
+
+<Q ID=41>
+What are the effects of Kovid-19 between African Americans, which are different from the rest of the American population?
+</Q>
+
+<Q ID=42>
+Does Vitamin D Effects COVID-19 Prevention and Treatment?
+</Q>
+
+<Q ID=43>
+How did Kovid-19 pandemic influenced violence in society including violent crimes?
+</Q>
+
+<Q ID=44>
+How much does the mask have to prevent the spread of Kovid-19?
+</Q>
+
+<Q ID=45>
+How did the Coved-19 epidemic influence mental health?
+</Q>
+
+<Q ID=46>
+What are the evidence for Dexametheson as a treatment of Kovid-19?
+</Q>
+
+<Q ID=47>
+What are the health results for the Kavid-19 contracts?
+</Q>
+
+<Q ID=48>
+What are the benefits and risks to reopen schools between Kovid-19 epidemic?
+</Q>
+
+<Q ID=49>
+Do people who are cured by Kovid-19, they show enough immune response including antibody level and T-cell mediator immunity to prevent infection again?
+</Q>
+
+<Q ID=50>
+What is known about an MRNA vaccine for SARS-COV-2 virus?
+</Q>
+

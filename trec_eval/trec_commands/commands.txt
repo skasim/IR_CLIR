@@ -1,0 +1,3 @@
+./trec_eval ../cord19.qrels ../term_rankedlist_a.txt [brief synopsis]
+
+./trec_eval -m all_trec ../cord19.qrels ../term_rankedlist_a.txt > ../skout.txt [avg]

@@ -1,0 +1,200 @@
+<Q ID=1>
+['coxsackievirus'] ['original']
+</Q>
+
+<Q ID=2>
+['weather'] ['change'] ['the'] ['for'] ['coxsackievirus'] ['reaction']
+</Q>
+
+<Q ID=3>
+['coxsackievirus'] ['immune']
+</Q>
+
+<Q ID=4>
+['people'] koronvayrs ['from'] ['how'] ['kills'] ['are']
+</Q>
+
+<Q ID=5>
+kovid-19 ['the'] ['animal'] ['model']
+</Q>
+
+<Q ID=6>
+['coxsackievirus'] ['testing'] ['rapidly'] ['from'] ['testing']
+</Q>
+
+<Q ID=7>
+koronvayrs ['the'] ['for'] sirolojikl ['test']
+</Q>
+
+<Q ID=8>
+['reporting,'] ['the'] ['under'] koronvayrs
+</Q>
+
+<Q ID=9>
+['canada'] ['in'] ['coxsackievirus']
+</Q>
+
+<Q ID=10>
+['coxsackievirus'] ['social'] ['distance'] ['the'] ['influence']
+</Q>
+
+<Q ID=11>
+['coxsackievirus'] ['hospital'] ['ratemaking']
+</Q>
+
+<Q ID=12>
+['coxsackievirus'] ['‘enforcement']
+</Q>
+
+<Q ID=13>
+koronvayrs ['how'] ['spread'] ['it']
+</Q>
+
+<Q ID=14>
+['coxsackievirus'] ['super'] spredrs
+</Q>
+
+<Q ID=15>
+['coxsackievirus'] ['body'] ['the'] ['outside']
+</Q>
+
+<Q ID=16>
+['whens'] ['until'] ['coxsackievirus'] ['surfaces'] ['on'] ['alive'] ['stays'] ['it']
+</Q>
+
+<Q ID=17>
+['coxsackievirus'] ['clinical'] ['testing']
+</Q>
+
+<Q ID=18>
+['mask'] koronvayrs ['to'] ['prevents'] ['are']
+</Q>
+
+<Q ID=19>
+['what'] ['alcohol'] sainitaezr koronvayrs ['to'] ['impales'] ['it']
+</Q>
+
+<Q ID=20>
+['coxsackievirus'] ['and'] ['spın̈al'] ['blocking']
+</Q>
+
+<Q ID=21>
+['coxsackievirus'] ['death'] ['rate']
+</Q>
+
+<Q ID=22>
+['coxsackievirus'] ['heart'] ['influence']
+</Q>
+
+<Q ID=23>
+['coxsackievirus'] ['high'] ['hypertension']
+</Q>
+
+<Q ID=24>
+['coxsackievirus'] ['diabetes']
+</Q>
+
+<Q ID=25>
+koronvayrs bayomarkrs
+</Q>
+
+<Q ID=26>
+['coxsackievirus'] ['early'] ['symptom']
+</Q>
+
+<Q ID=27>
+['coxsackievirus']
+</Q>
+
+<Q ID=28>
+['coxsackievirus'] haedroksiklorokvin
+</Q>
+
+<Q ID=29>
+koronavirs ['drug'] ripropsing
+</Q>
+
+<Q ID=30>
+['coxsackievirus'] remdesivir
+</Q>
+
+<Q ID=31>
+koronvayrs ['and'] ['flu'] ['the'] ['between'] ['difference']
+</Q>
+
+<Q ID=32>
+['coxsackievirus'] ['subtypes']
+</Q>
+
+<Q ID=33>
+['coxsackievirus'] ['vaccine'] ['candidate']
+</Q>
+
+<Q ID=34>
+['coxsackievirus'] ['recovery']
+</Q>
+
+<Q ID=35>
+['coxsackievirus'] ['public'] detasets
+</Q>
+
+<Q ID=36>
+--2 ['granpuff'] ['structure']
+</Q>
+
+<Q ID=37>
+eseaares-kov -2 filojenik ['analysis']
+</Q>
+
+<Q ID=38>
+kovid ['ulceration'] ['reaction']
+</Q>
+
+<Q ID=39>
+kovid-19 saetokin ['hurricane']
+</Q>
+
+<Q ID=40>
+['coxsackievirus'] ['mutation']
+</Q>
+
+<Q ID=41>
+kovid-19 afriki-amerikiyon ['in']
+</Q>
+
+<Q ID=42>
+['vitamin'] ['giron'] ['and'] kovid-19
+</Q>
+
+<Q ID=43>
+['epidemic'] ['the'] ['during'] ['violence']
+</Q>
+
+<Q ID=44>
+['coxsackievirus'] ['transmission,'] ['on'] ['mask'] ['the'] ['influence']
+</Q>
+
+<Q ID=45>
+['coxsackievirus'] ['mental'] ['health'] ['influence']
+</Q>
+
+<Q ID=46>
+['ganaxolone'] ['coxsackievirus']
+</Q>
+
+<Q ID=47>
+['children'] ['in'] kovid-19 ['outcome']
+</Q>
+
+<Q ID=48>
+['school'] koonpning koronvayrs
+</Q>
+
+<Q ID=49>
+post-snkrmn kovid-19 ['immune']
+</Q>
+
+<Q ID=50>
+['dna'] ['vaccine'] koronvayrs
+</Q>
+

@@ -1,0 +1,200 @@
+<Q ID=1>
+kovid -19 ['of'] ['origin'] ['what'] ['it']
+</Q>
+
+<Q ID=2>
+koronvayrs ['weather'] ['in'] ['changes'] ['the'] ['replies'] ['how'] ['gives'] ['it']
+</Q>
+
+<Q ID=3>
+['what'] eseaares-kov 2 ['infected'] ['people'] ['immune'] ['developed'] krenge?kya ['crossing'] ['security'] ['impossible'] hai?
+</Q>
+
+<Q ID=4>
+['what'] kovid-19 ['from'] ['death'] ['the'] ['due'] ['creates'] hai?
+</Q>
+
+<Q ID=5>
+['animal'] ['study'] ['in'] sars- ['or'] sars--2 ['the'] ['against'] ['what'] ['sunshine'] ['medications'] ['active'] hain?
+</Q>
+
+<Q ID=6>
+kovid-19 ['the'] ['for'] ['whatever'] ['types'] ['the'] ['slower'] ['testing'] ['developed'] ['jun'] ['was'] hain?
+</Q>
+
+<Q ID=7>
+['what'] ['where'] sirolojikl ['testing'] ['are'] ['which'] koronvayrs ['to'] ['antibody'] ['the'] ['confirm'] ['puts'] hain?
+</Q>
+
+<Q ID=8>
+['testing'] ['of'] ['availability'] ['of'] ['lack'] ['how'] kovid -19 ['of'] ['real'] ['events'] ['to'] ['less'] ['getting'] ['the'] ['for'] ['leadership'] ['then'] ['been'] hai?
+</Q>
+
+<Q ID=9>
+kovid-19 ['had'] ['canada'] ['to'] ['how'] ['influenced'] ['been'] ['it']
+</Q>
+
+<Q ID=10>
+['what'] ['social'] ['distance'] ['to'] kovid-19 ['the'] ['spread'] ['to'] ['slow'] ['getting'] ['on'] ['effect'] ['faced'] hai?
+</Q>
+
+<Q ID=11>
+koronvayrs ['from'] ['infected'] ['patients'] ['the'] ['for'] ['guidelines'] ['what'] hain?
+</Q>
+
+<Q ID=12>
+['‘enforcement'] ['to'] ['maintained'] ['keeping'] ['in'] ['hospitals'] ['and'] ['home'] ['on'] ['most'] ['good'] ['practice'] ['what'] hain?
+</Q>
+
+<Q ID=13>
+koronvayrs ['the'] ['transmission,'] ['route'] ['what'] hain?
+</Q>
+
+<Q ID=14>
+kovid -19 ['super'] spredrs ['from'] ['related'] ['what'] ['evidence'] ['are']
+</Q>
+
+<Q ID=15>
+['whens'] ['until'] koronvayrs ['body'] ['the'] ['outside'] ['stays'] ['it']
+</Q>
+
+<Q ID=16>
+['coxsackievirus'] ['surfaces'] ['on'] ['how'] ['afternoon'] ['until'] ['stable'] ['stays'] hai?
+</Q>
+
+<Q ID=17>
+['what'] koronvayrs ['the'] ['for'] ['any'] ['clinical'] ['testing'] ['available'] ['are']
+</Q>
+
+<Q ID=18>
+kovid-19 ['by'] ['infection'] ['to'] ['preventing'] ['the'] ['for'] ['most'] ['good'] ['mask'] ['what'] hain?
+</Q>
+
+<Q ID=19>
+kovid-19 ['to'] ['destroyed'] ['getting'] ['the'] ['for'] ['whatever'] ['types'] ['the'] ['hand'] senitaezr ['of'] ['required'] hai?
+</Q>
+
+<Q ID=20>
+['what'] ['patient'] kovid-19 ['the'] ['for'] ['increasing'] ['risk'] ['in'] enjiyotensin-knvrting ['proteins'] ['laminopathy'] (esie) ['taken'] ['going'] hain?
+</Q>
+
+<Q ID=21>
+['death'] ['rate'] ['overall'] ['and'] ['specific'] ['population'] ['in'] ['what'] ['are']
+</Q>
+
+<Q ID=22>
+kovid-19 ['the'] ['patients'] ['in'] ['cardiac'] ['complications'] ['of'] ['possibility'] hai?
+</Q>
+
+<Q ID=23>
+kovid-19 ['from'] ['related'] ['whatever'] ['types'] ['of'] ['complications'] ['to'] ['high'] ['hypertension'] ['from'] ['linked'] ['was'] hai?
+</Q>
+
+<Q ID=24>
+kovid-19 ['from'] ['related'] ['whatever'] ['types'] ['of'] ['complications'] ['to'] ['diabetes'] ['from'] ['connected'] ['was'] ['it']
+</Q>
+
+<Q ID=25>
+['what'] ['small'] bayomakrs 2019-ensiovi ['infection'] ['the'] ['serious'] ['clinical'] ['curriculum'] ['of'] ['predictions'] ['requires'] hai?
+</Q>
+
+<Q ID=26>
+kovid-19 ['the'] ['early'] ['symptom'] ['what'] hain?
+</Q>
+
+<Q ID=27>
+kovid-19 ['from'] ['infected'] ['people'] ['the'] ['about'] ['in'] ['what'] ['confirm'] ['it'] ['but'] ['unlimited'] hain?
+</Q>
+
+<Q ID=28>
+kovid-19 ['the'] ['treatment'] ['in'] haedroksaekolokvin ['the'] ['value'] ['the'] ['for'] ['what'] ['evidence'] hain?
+</Q>
+
+<Q ID=29>
+['what'] ['from'] eseaares-kov -2 protin-manv ['protein'] entraikshn ['pharmaceutical'] ['objectives'] ['the'] ['for'] ['potential'] ['signal'] ['gives'] hainkya ['where'] ['accepted'] ['medications'] ['are'] ['whose'] ['this'] ['information'] ['the'] ['based'] ['on'] ['#extract'] ['been'] ['been'] ['can'] hai?
+</Q>
+
+<Q ID=30>
+remdesivir kovid-19 ['the'] ['for'] ['a'] ['effective'] ['treatments'] ['it']
+</Q>
+
+<Q ID=31>
+['coxsackievirus'] ['seasonal'] ['flu'] ['from'] ['different'] ['how'] ['is'] hai?
+</Q>
+
+<Q ID=32>
+['what'] sars--2 ['in'] ['any'] ['subtypes'] ['always'] ['and'] ['if'] ['that'] ['it'] ['so'] ['he'] ['what'] hain?
+</Q>
+
+<Q ID=33>
+kovid-19 ['the'] ['for'] ['whatever'] ['vaccine'] ['the'] ['candidates'] ['the'] ['testing'] ['been'] ['been'] ['been'] hai?
+</Q>
+
+<Q ID=34>
+kovid-19 ['from'] ['wrong'] ['being'] ['people'] ['of'] ['long'] ['duration'] ['of'] ['complications'] ['what'] hain?
+</Q>
+
+<Q ID=35>
+kovid-19 ['from'] ['related'] ['newest'] ['public'] ['data'] ['available'] hain?
+</Q>
+
+<Q ID=36>
+sars--2 ['granpuff'] ['of'] ['protein'] ['structure'] ['what'] hai?
+</Q>
+
+<Q ID=37>
+sars--2 ['genome'] ['sequence'] ['the'] ['pedigrees'] ['analysis'] ['the'] ['outcome'] ['what'] hai?
+</Q>
+
+<Q ID=38>
+kovid-19 ['cases'] ['the'] ['ulceration'] ['reaction'] ['and'] rogjny ['of'] ['system'] ['what'] hai?
+</Q>
+
+<Q ID=39>
+kovid-19 ['on'] saetokin ['hurricane'] ['syndrome'] ['the'] ['system'] ['what'] hai?
+</Q>
+
+<Q ID=40>
+eseaares-kov -2 ['genome'] ['in'] ['celebrations'] ['was'] ['mutation'] ['what'] ['are'] ['and'] ['mutation'] ['how'] ['twice'] ['becomes'] hain?
+</Q>
+
+<Q ID=41>
+afriki-amerikiyon ['the'] ['between'] kovid-19 ['the'] ['influence'] ['what'] ['are'] ['which'] ['remainder'] ['american'] ['population'] ['the'] ['rest'] ['parts'] ['from'] ['different'] hain?
+</Q>
+
+<Q ID=42>
+['what'] ['vitamin'] ['giron'] ['influence'] kovid-19 ['of'] ['prevention'] ['and'] ['treatments'] ['requires'] hai?
+</Q>
+
+<Q ID=43>
+['violent'] ['crimes'] ['including'] ['egalitarian'] ['in'] kovid-19 ['epidemic'] ['had'] ['violence'] ['to'] ['how'] ['influenced'] ['been'] hai?
+</Q>
+
+<Q ID=44>
+kovid-19 ['the'] ['spread'] ['to'] ['preventing'] ['on'] ['mask'] ['the'] ['close'] ['how'] ['influence'] ['takes'] hai?
+</Q>
+
+<Q ID=45>
+kovid-19 ['epidemic'] ['had'] ['mental'] ['health'] ['to'] ['how'] ['influenced'] ['been'] hai?
+</Q>
+
+<Q ID=46>
+kovid-19 ['the'] ['treatment'] ['the'] ['as'] ['in'] deksametheson ['the'] ['for'] ['what'] ['evidence'] hain?
+</Q>
+
+<Q ID=47>
+kovid -19 ['contract'] ['getting'] ['rather'] ['children'] ['the'] ['for'] ['health'] ['outcome'] ['what'] hain?
+</Q>
+
+<Q ID=48>
+kovid-19 ['epidemic'] ['the'] ['between'] ['in'] ['schools'] ['to'] ['again'] ['from'] ['opening'] ['the'] ['benefit'] ['and'] ['risk'] ['what'] hain?
+</Q>
+
+<Q ID=49>
+['what'] ['people'] ['which'] kovid-19 ['from'] ['wrong'] ['but'] ['is'] ['are/some'] ['he'] ['again'] ['from'] ['infection'] ['to'] ['preventing'] ['the'] ['for'] ['antibody'] ['level'] ['and'] ti-sel ['intermediator'] ['immune'] ['including'] ['sufficient'] ['immune'] ['reaction'] ['shows'] hain?
+</Q>
+
+<Q ID=50>
+sars--2 ['virus'] ['the'] ['for'] ['a'] ['dna'] ['vaccine'] ['the'] ['about'] ['in'] ['what'] ['known'] ['commonly'] hai?
+</Q>
+
